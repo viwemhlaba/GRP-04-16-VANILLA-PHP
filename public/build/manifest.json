@@ -1,0 +1,1919 @@
+{
+  "_app-layout-BjO8UPhY.js": {
+    "file": "assets/app-layout-BjO8UPhY.js",
+    "name": "app-layout",
+    "imports": [
+      "resources/js/app.tsx",
+      "_index-D6cg2Mm3.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "_app-logo-DcjKhG5i.js": {
+    "file": "assets/app-logo-DcjKhG5i.js",
+    "name": "app-logo",
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_auth-layout-BwUa2Ots.js": {
+    "file": "assets/auth-layout-BwUa2Ots.js",
+    "name": "auth-layout",
+    "imports": [
+      "resources/js/app.tsx",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "_badge-PeB8ie60.js": {
+    "file": "assets/badge-PeB8ie60.js",
+    "name": "badge",
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_calendar-BYUAldzQ.js": {
+    "file": "assets/calendar-BYUAldzQ.js",
+    "name": "calendar",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_card-DMpxeHKD.js": {
+    "file": "assets/card-DMpxeHKD.js",
+    "name": "card",
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_checkbox-CmdZUS2u.js": {
+    "file": "assets/checkbox-CmdZUS2u.js",
+    "name": "checkbox",
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_index-D6cg2Mm3.js"
+    ]
+  },
+  "_circle-x-CkdvlzDH.js": {
+    "file": "assets/circle-x-CkdvlzDH.js",
+    "name": "circle-x",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_clock-KGfhU19J.js": {
+    "file": "assets/clock-KGfhU19J.js",
+    "name": "clock",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_createLucideIcon-CJXjctMu.js": {
+    "file": "assets/createLucideIcon-CJXjctMu.js",
+    "name": "createLucideIcon",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_dialog-BWut1jda.js": {
+    "file": "assets/dialog-BWut1jda.js",
+    "name": "dialog",
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-layout-BjO8UPhY.js",
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_download-C1qKmiEZ.js": {
+    "file": "assets/download-C1qKmiEZ.js",
+    "name": "download",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_eye-xYu3NAbP.js": {
+    "file": "assets/eye-xYu3NAbP.js",
+    "name": "eye",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_heading-dqUOBQxD.js": {
+    "file": "assets/heading-dqUOBQxD.js",
+    "name": "heading",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_index-CR58GS18.js": {
+    "file": "assets/index-CR58GS18.js",
+    "name": "index",
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_index-CtBsO7PD.js": {
+    "file": "assets/index-CtBsO7PD.js",
+    "name": "index"
+  },
+  "_index-D6cg2Mm3.js": {
+    "file": "assets/index-D6cg2Mm3.js",
+    "name": "index",
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_index-Db2yqOI4.js": {
+    "file": "assets/index-Db2yqOI4.js",
+    "name": "index",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js",
+      "resources/js/app.tsx"
+    ]
+  },
+  "_input-cZgy-9z1.js": {
+    "file": "assets/input-cZgy-9z1.js",
+    "name": "input",
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_input-error--WmyW-nY.js": {
+    "file": "assets/input-error--WmyW-nY.js",
+    "name": "input-error",
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_label-D4qny3wm.js": {
+    "file": "assets/label-D4qny3wm.js",
+    "name": "label",
+    "imports": [
+      "resources/js/app.tsx",
+      "_index-D6cg2Mm3.js",
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_layout-7QKfm2gO.js": {
+    "file": "assets/layout-7QKfm2gO.js",
+    "name": "layout",
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_separator-KBCvUZHV.js"
+    ]
+  },
+  "_loader-circle-BjtqSr8c.js": {
+    "file": "assets/loader-circle-BjtqSr8c.js",
+    "name": "loader-circle",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_lock-bsT-iv2u.js": {
+    "file": "assets/lock-bsT-iv2u.js",
+    "name": "lock",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_mail-DVHEdVih.js": {
+    "file": "assets/mail-DVHEdVih.js",
+    "name": "mail",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_package-ZoGHK-yM.js": {
+    "file": "assets/package-ZoGHK-yM.js",
+    "name": "package",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_pencil-BvMgf6ao.js": {
+    "file": "assets/pencil-BvMgf6ao.js",
+    "name": "pencil",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_phone-BfRp5dJ8.js": {
+    "file": "assets/phone-BfRp5dJ8.js",
+    "name": "phone",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_pill-BS0WEZWH.js": {
+    "file": "assets/pill-BS0WEZWH.js",
+    "name": "pill",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_plus-CWERYZzN.js": {
+    "file": "assets/plus-CWERYZzN.js",
+    "name": "plus",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_select-8dGr2CsA.js": {
+    "file": "assets/select-8dGr2CsA.js",
+    "name": "select",
+    "imports": [
+      "resources/js/app.tsx",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-layout-BjO8UPhY.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_index-Db2yqOI4.js"
+    ]
+  },
+  "_separator-KBCvUZHV.js": {
+    "file": "assets/separator-KBCvUZHV.js",
+    "name": "separator",
+    "imports": [
+      "resources/js/app.tsx",
+      "_index-D6cg2Mm3.js",
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_table-Bx2kdRqw.js": {
+    "file": "assets/table-Bx2kdRqw.js",
+    "name": "table",
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_text-link-BiHnFQEv.js": {
+    "file": "assets/text-link-BiHnFQEv.js",
+    "name": "text-link",
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_textarea-3mhvGArJ.js": {
+    "file": "assets/textarea-3mhvGArJ.js",
+    "name": "textarea",
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_transition-DKsomkrj.js": {
+    "file": "assets/transition-DKsomkrj.js",
+    "name": "transition",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_trash-2-2fdkUjjd.js": {
+    "file": "assets/trash-2-2fdkUjjd.js",
+    "name": "trash-2",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_trending-up-LEIheqNm.js": {
+    "file": "assets/trending-up-LEIheqNm.js",
+    "name": "trending-up",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_triangle-alert-BbcsabZN.js": {
+    "file": "assets/triangle-alert-BbcsabZN.js",
+    "name": "triangle-alert",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_upload-D1m6XBpD.js": {
+    "file": "assets/upload-D1m6XBpD.js",
+    "name": "upload",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "_user-DbbLjyYx.js": {
+    "file": "assets/user-DbbLjyYx.js",
+    "name": "user",
+    "imports": [
+      "_createLucideIcon-CJXjctMu.js"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-C7QRsU4Z.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.tsx": {
+    "file": "assets/app-DD1_j264.js",
+    "name": "app",
+    "src": "resources/js/app.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/pages/Customer/Dashboard.tsx",
+      "resources/js/pages/Customer/Orders/Create.tsx",
+      "resources/js/pages/Customer/Orders/Index.tsx",
+      "resources/js/pages/Customer/Orders/Show.tsx",
+      "resources/js/pages/Customer/Prescriptions/Create.tsx",
+      "resources/js/pages/Customer/Prescriptions/Index.tsx",
+      "resources/js/pages/Customer/ProfileCreate.tsx",
+      "resources/js/pages/Customer/ProfileEdit.tsx",
+      "resources/js/pages/Customer/ProfileShow.tsx",
+      "resources/js/pages/Customer/Repeats/Index.tsx",
+      "resources/js/pages/Customer/Reports/Index.tsx",
+      "resources/js/pages/Manager/ActiveIngredients/Create.tsx",
+      "resources/js/pages/Manager/ActiveIngredients/Edit.tsx",
+      "resources/js/pages/Manager/ActiveIngredients/Index.tsx",
+      "resources/js/pages/Manager/Catalogue/Medications.tsx",
+      "resources/js/pages/Manager/Dashboard.tsx",
+      "resources/js/pages/Manager/Doctors/Create.tsx",
+      "resources/js/pages/Manager/Doctors/Edit.tsx",
+      "resources/js/pages/Manager/Doctors/Index.tsx",
+      "resources/js/pages/Manager/DosageForms/Create.tsx",
+      "resources/js/pages/Manager/DosageForms/Edit.tsx",
+      "resources/js/pages/Manager/DosageForms/Index.tsx",
+      "resources/js/pages/Manager/LowStockOverview.tsx",
+      "resources/js/pages/Manager/Medication/Create.tsx",
+      "resources/js/pages/Manager/Medication/Edit.tsx",
+      "resources/js/pages/Manager/Medication/Index.tsx",
+      "resources/js/pages/Manager/Medications/StockManagement.tsx",
+      "resources/js/pages/Manager/Orders/CreateStockOrder.tsx",
+      "resources/js/pages/Manager/Orders/Index.tsx",
+      "resources/js/pages/Manager/Orders/Show.tsx",
+      "resources/js/pages/Manager/People/Pharmacists.tsx",
+      "resources/js/pages/Manager/Pharmacies/Create.tsx",
+      "resources/js/pages/Manager/Pharmacies/CreateSimple.tsx",
+      "resources/js/pages/Manager/Pharmacies/Details.tsx",
+      "resources/js/pages/Manager/Pharmacies/Edit.tsx",
+      "resources/js/pages/Manager/Pharmacies/Index.tsx",
+      "resources/js/pages/Manager/Pharmacies/Show.tsx",
+      "resources/js/pages/Manager/Pharmacists/Create.tsx",
+      "resources/js/pages/Manager/Pharmacists/Edit.tsx",
+      "resources/js/pages/Manager/Pharmacists/Index.tsx",
+      "resources/js/pages/Manager/Reports/Index.tsx",
+      "resources/js/pages/Manager/Reports/StockReport.tsx",
+      "resources/js/pages/Manager/Stock/Index.tsx",
+      "resources/js/pages/Manager/Suppliers/Create.tsx",
+      "resources/js/pages/Manager/Suppliers/Edit.tsx",
+      "resources/js/pages/Manager/Suppliers/Index.tsx",
+      "resources/js/pages/Medications/Create.tsx",
+      "resources/js/pages/Medications/Edit.tsx",
+      "resources/js/pages/Medications/Index.tsx",
+      "resources/js/pages/Pharmacist/Customers/Create.tsx",
+      "resources/js/pages/Pharmacist/Dashboard.tsx",
+      "resources/js/pages/Pharmacist/EditProfile.tsx",
+      "resources/js/pages/Pharmacist/Prescriptions.tsx",
+      "resources/js/pages/Pharmacist/Prescriptions/Create.tsx",
+      "resources/js/pages/Pharmacist/Prescriptions/CreateManual.tsx",
+      "resources/js/pages/Pharmacist/Prescriptions/CreateManualSimple.tsx",
+      "resources/js/pages/Pharmacist/Prescriptions/CreateWithPDF.tsx",
+      "resources/js/pages/Pharmacist/Prescriptions/Dispense.tsx",
+      "resources/js/pages/Pharmacist/Prescriptions/DispenseShow.tsx",
+      "resources/js/pages/Pharmacist/Prescriptions/Index.tsx",
+      "resources/js/pages/Pharmacist/Prescriptions/LoadPrescription.tsx",
+      "resources/js/pages/Pharmacist/Prescriptions/Show.tsx",
+      "resources/js/pages/Pharmacist/Profile.tsx",
+      "resources/js/pages/Pharmacist/Repeats.tsx",
+      "resources/js/pages/Pharmacist/Reports.tsx",
+      "resources/js/pages/Pharmacist/Reports/DispensedReportPage.tsx",
+      "resources/js/pages/Pharmacist/Stock.tsx",
+      "resources/js/pages/auth/confirm-password.tsx",
+      "resources/js/pages/auth/forgot-password.tsx",
+      "resources/js/pages/auth/login.tsx",
+      "resources/js/pages/auth/register.tsx",
+      "resources/js/pages/auth/reset-password.tsx",
+      "resources/js/pages/auth/verify-email.tsx",
+      "resources/js/pages/dashboard.tsx",
+      "resources/js/pages/settings/appearance.tsx",
+      "resources/js/pages/settings/password.tsx",
+      "resources/js/pages/settings/profile.tsx",
+      "resources/js/pages/welcome.tsx"
+    ],
+    "css": [
+      "assets/app-C7QRsU4Z.css"
+    ]
+  },
+  "resources/js/pages/Customer/Dashboard.tsx": {
+    "file": "assets/Dashboard-CLVTBf0o.js",
+    "name": "Dashboard",
+    "src": "resources/js/pages/Customer/Dashboard.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Customer/Orders/Create.tsx": {
+    "file": "assets/Create-COlTwJVG.js",
+    "name": "Create",
+    "src": "resources/js/pages/Customer/Orders/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_checkbox-CmdZUS2u.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_index-D6cg2Mm3.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Customer/Orders/Index.tsx": {
+    "file": "assets/Index-C01QQo5Z.js",
+    "name": "Index",
+    "src": "resources/js/pages/Customer/Orders/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Customer/Orders/Show.tsx": {
+    "file": "assets/Show-DcfDP7zH.js",
+    "name": "Show",
+    "src": "resources/js/pages/Customer/Orders/Show.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_card-DMpxeHKD.js",
+      "_app-layout-BjO8UPhY.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Customer/Prescriptions/Create.tsx": {
+    "file": "assets/Create-Djk5Whzd.js",
+    "name": "Create",
+    "src": "resources/js/pages/Customer/Prescriptions/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Customer/Prescriptions/Index.tsx": {
+    "file": "assets/Index-wDeJ0kYL.js",
+    "name": "Index",
+    "src": "resources/js/pages/Customer/Prescriptions/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_dialog-BWut1jda.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Customer/ProfileCreate.tsx": {
+    "file": "assets/ProfileCreate-Cro-7Deq.js",
+    "name": "ProfileCreate",
+    "src": "resources/js/pages/Customer/ProfileCreate.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Customer/ProfileEdit.tsx": {
+    "file": "assets/ProfileEdit-CbMdNuj-.js",
+    "name": "ProfileEdit",
+    "src": "resources/js/pages/Customer/ProfileEdit.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Customer/ProfileShow.tsx": {
+    "file": "assets/ProfileShow-3yYIQZ9t.js",
+    "name": "ProfileShow",
+    "src": "resources/js/pages/Customer/ProfileShow.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Customer/Repeats/Index.tsx": {
+    "file": "assets/Index-Cfjjcxji.js",
+    "name": "Index",
+    "src": "resources/js/pages/Customer/Repeats/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Customer/Reports/Index.tsx": {
+    "file": "assets/Index-B_WM3-qJ.js",
+    "name": "Index",
+    "src": "resources/js/pages/Customer/Reports/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_input-cZgy-9z1.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/ActiveIngredients/Create.tsx": {
+    "file": "assets/Create-DRKehDKK.js",
+    "name": "Create",
+    "src": "resources/js/pages/Manager/ActiveIngredients/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/ActiveIngredients/Edit.tsx": {
+    "file": "assets/Edit-u75U3svQ.js",
+    "name": "Edit",
+    "src": "resources/js/pages/Manager/ActiveIngredients/Edit.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/ActiveIngredients/Index.tsx": {
+    "file": "assets/Index-DUfctgH0.js",
+    "name": "Index",
+    "src": "resources/js/pages/Manager/ActiveIngredients/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_dialog-BWut1jda.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_pencil-BvMgf6ao.js",
+      "_trash-2-2fdkUjjd.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Catalogue/Medications.tsx": {
+    "file": "assets/Medications-CtxCoxKz.js",
+    "name": "Medications",
+    "src": "resources/js/pages/Manager/Catalogue/Medications.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Dashboard.tsx": {
+    "file": "assets/Dashboard-eqH5tstO.js",
+    "name": "Dashboard",
+    "src": "resources/js/pages/Manager/Dashboard.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_package-ZoGHK-yM.js",
+      "_triangle-alert-BbcsabZN.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Doctors/Create.tsx": {
+    "file": "assets/Create-TbvRenmG.js",
+    "name": "Create",
+    "src": "resources/js/pages/Manager/Doctors/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-CtBsO7PD.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Doctors/Edit.tsx": {
+    "file": "assets/Edit-DRXRZGLW.js",
+    "name": "Edit",
+    "src": "resources/js/pages/Manager/Doctors/Edit.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-CtBsO7PD.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Doctors/Index.tsx": {
+    "file": "assets/Index-BOJYVFrF.js",
+    "name": "Index",
+    "src": "resources/js/pages/Manager/Doctors/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_dialog-BWut1jda.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-CtBsO7PD.js",
+      "_pencil-BvMgf6ao.js",
+      "_trash-2-2fdkUjjd.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/DosageForms/Create.tsx": {
+    "file": "assets/Create-B9GcIGK1.js",
+    "name": "Create",
+    "src": "resources/js/pages/Manager/DosageForms/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-CtBsO7PD.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/DosageForms/Edit.tsx": {
+    "file": "assets/Edit-CVk_fvux.js",
+    "name": "Edit",
+    "src": "resources/js/pages/Manager/DosageForms/Edit.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/DosageForms/Index.tsx": {
+    "file": "assets/Index-CnzfKy5F.js",
+    "name": "Index",
+    "src": "resources/js/pages/Manager/DosageForms/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_dialog-BWut1jda.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_pencil-BvMgf6ao.js",
+      "_trash-2-2fdkUjjd.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/LowStockOverview.tsx": {
+    "file": "assets/LowStockOverview-D3K4BwX0.js",
+    "name": "LowStockOverview",
+    "src": "resources/js/pages/Manager/LowStockOverview.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_triangle-alert-BbcsabZN.js",
+      "_package-ZoGHK-yM.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Medication/Create.tsx": {
+    "file": "assets/Create-DnnwIp7M.js",
+    "name": "Create",
+    "src": "resources/js/pages/Manager/Medication/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-CtBsO7PD.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Medication/Edit.tsx": {
+    "file": "assets/Edit-BhLR1Q72.js",
+    "name": "Edit",
+    "src": "resources/js/pages/Manager/Medication/Edit.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-CtBsO7PD.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Medication/Index.tsx": {
+    "file": "assets/Index-DREYOees.js",
+    "name": "Index",
+    "src": "resources/js/pages/Manager/Medication/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_dialog-BWut1jda.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_pencil-BvMgf6ao.js",
+      "_trash-2-2fdkUjjd.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Medications/StockManagement.tsx": {
+    "file": "assets/StockManagement-DtXM183Q.js",
+    "name": "StockManagement",
+    "src": "resources/js/pages/Manager/Medications/StockManagement.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_dialog-BWut1jda.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_app-layout-BjO8UPhY.js",
+      "_card-DMpxeHKD.js",
+      "_checkbox-CmdZUS2u.js",
+      "_table-Bx2kdRqw.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js",
+      "_index-Db2yqOI4.js"
+    ]
+  },
+  "resources/js/pages/Manager/Orders/CreateStockOrder.tsx": {
+    "file": "assets/CreateStockOrder-DsuU6imo.js",
+    "name": "CreateStockOrder",
+    "src": "resources/js/pages/Manager/Orders/CreateStockOrder.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_checkbox-CmdZUS2u.js",
+      "_input-cZgy-9z1.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_index-D6cg2Mm3.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Orders/Index.tsx": {
+    "file": "assets/Index-BEN0k6H6.js",
+    "name": "Index",
+    "src": "resources/js/pages/Manager/Orders/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-CtBsO7PD.js",
+      "_plus-CWERYZzN.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Orders/Show.tsx": {
+    "file": "assets/Show-C0IEncVV.js",
+    "name": "Show",
+    "src": "resources/js/pages/Manager/Orders/Show.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_user-DbbLjyYx.js",
+      "_package-ZoGHK-yM.js",
+      "_calendar-BYUAldzQ.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/People/Pharmacists.tsx": {
+    "file": "assets/Pharmacists-BOTieyNO.js",
+    "name": "Pharmacists",
+    "src": "resources/js/pages/Manager/People/Pharmacists.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Pharmacies/Create.tsx": {
+    "file": "assets/Create-BxFkwm5J.js",
+    "name": "Create",
+    "src": "resources/js/pages/Manager/Pharmacies/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Pharmacies/CreateSimple.tsx": {
+    "file": "assets/CreateSimple-Ib1CydeW.js",
+    "name": "CreateSimple",
+    "src": "resources/js/pages/Manager/Pharmacies/CreateSimple.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Pharmacies/Details.tsx": {
+    "file": "assets/Details-B1vBLkMB.js",
+    "name": "Details",
+    "src": "resources/js/pages/Manager/Pharmacies/Details.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_textarea-3mhvGArJ.js",
+      "_app-layout-BjO8UPhY.js",
+      "_circle-x-CkdvlzDH.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Pharmacies/Edit.tsx": {
+    "file": "assets/Edit-CKBAwReP.js",
+    "name": "Edit",
+    "src": "resources/js/pages/Manager/Pharmacies/Edit.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Pharmacies/Index.tsx": {
+    "file": "assets/Index-BcONEEg0.js",
+    "name": "Index",
+    "src": "resources/js/pages/Manager/Pharmacies/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Pharmacies/Show.tsx": {
+    "file": "assets/Show-C6wUgWR9.js",
+    "name": "Show",
+    "src": "resources/js/pages/Manager/Pharmacies/Show.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Pharmacists/Create.tsx": {
+    "file": "assets/Create-Y4P0naXB.js",
+    "name": "Create",
+    "src": "resources/js/pages/Manager/Pharmacists/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Pharmacists/Edit.tsx": {
+    "file": "assets/Edit-CpAIamMm.js",
+    "name": "Edit",
+    "src": "resources/js/pages/Manager/Pharmacists/Edit.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Pharmacists/Index.tsx": {
+    "file": "assets/Index-Cha341m-.js",
+    "name": "Index",
+    "src": "resources/js/pages/Manager/Pharmacists/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_dialog-BWut1jda.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_pencil-BvMgf6ao.js",
+      "_trash-2-2fdkUjjd.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Reports/Index.tsx": {
+    "file": "assets/Index-BN41ULBZ.js",
+    "name": "Index",
+    "src": "resources/js/pages/Manager/Reports/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-CtBsO7PD.js",
+      "_package-ZoGHK-yM.js",
+      "_trending-up-LEIheqNm.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Reports/StockReport.tsx": {
+    "file": "assets/StockReport-B9qHzjYr.js",
+    "name": "StockReport",
+    "src": "resources/js/pages/Manager/Reports/StockReport.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_checkbox-CmdZUS2u.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-CtBsO7PD.js",
+      "_clock-KGfhU19J.js",
+      "_calendar-BYUAldzQ.js",
+      "_download-C1qKmiEZ.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_index-D6cg2Mm3.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Stock/Index.tsx": {
+    "file": "assets/Index-6uRkjojN.js",
+    "name": "Index",
+    "src": "resources/js/pages/Manager/Stock/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Suppliers/Create.tsx": {
+    "file": "assets/Create-7GRfbTxd.js",
+    "name": "Create",
+    "src": "resources/js/pages/Manager/Suppliers/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-CtBsO7PD.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Suppliers/Edit.tsx": {
+    "file": "assets/Edit-C98Q1VIW.js",
+    "name": "Edit",
+    "src": "resources/js/pages/Manager/Suppliers/Edit.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-CtBsO7PD.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Manager/Suppliers/Index.tsx": {
+    "file": "assets/Index-CG9tdL1B.js",
+    "name": "Index",
+    "src": "resources/js/pages/Manager/Suppliers/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_dialog-BWut1jda.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-CtBsO7PD.js",
+      "_pencil-BvMgf6ao.js",
+      "_trash-2-2fdkUjjd.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Medications/Create.tsx": {
+    "file": "assets/Create-BjMPOqzl.js",
+    "name": "Create",
+    "src": "resources/js/pages/Medications/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "resources/js/pages/Medications/Edit.tsx": {
+    "file": "assets/Edit-Bmr9UoGC.js",
+    "name": "Edit",
+    "src": "resources/js/pages/Medications/Edit.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "resources/js/pages/Medications/Index.tsx": {
+    "file": "assets/Index-FCLYtot_.js",
+    "name": "Index",
+    "src": "resources/js/pages/Medications/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Customers/Create.tsx": {
+    "file": "assets/Create-CcdUZUhJ.js",
+    "name": "Create",
+    "src": "resources/js/pages/Pharmacist/Customers/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Dashboard.tsx": {
+    "file": "assets/Dashboard-CB9b_LMp.js",
+    "name": "Dashboard",
+    "src": "resources/js/pages/Pharmacist/Dashboard.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/EditProfile.tsx": {
+    "file": "assets/EditProfile-BtRW-6OR.js",
+    "name": "EditProfile",
+    "src": "resources/js/pages/Pharmacist/EditProfile.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-layout-BjO8UPhY.js",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_textarea-3mhvGArJ.js",
+      "_upload-D1m6XBpD.js",
+      "_plus-CWERYZzN.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js",
+      "_index-Db2yqOI4.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Prescriptions.tsx": {
+    "file": "assets/Prescriptions-DqC_P5TK.js",
+    "name": "Prescriptions",
+    "src": "resources/js/pages/Pharmacist/Prescriptions.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_input-cZgy-9z1.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Prescriptions/Create.tsx": {
+    "file": "assets/Create-GJ8VXI3w.js",
+    "name": "Create",
+    "src": "resources/js/pages/Pharmacist/Prescriptions/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Prescriptions/CreateManual.tsx": {
+    "file": "assets/CreateManual-B0QvDjhi.js",
+    "name": "CreateManual",
+    "src": "resources/js/pages/Pharmacist/Prescriptions/CreateManual.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_checkbox-CmdZUS2u.js",
+      "_dialog-BWut1jda.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_textarea-3mhvGArJ.js",
+      "_app-layout-BjO8UPhY.js",
+      "_plus-CWERYZzN.js",
+      "_trash-2-2fdkUjjd.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_index-D6cg2Mm3.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Prescriptions/CreateManualSimple.tsx": {
+    "file": "assets/CreateManualSimple-CBIYLbx_.js",
+    "name": "CreateManualSimple",
+    "src": "resources/js/pages/Pharmacist/Prescriptions/CreateManualSimple.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_checkbox-CmdZUS2u.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_textarea-3mhvGArJ.js",
+      "_app-layout-BjO8UPhY.js",
+      "_plus-CWERYZzN.js",
+      "_trash-2-2fdkUjjd.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_index-D6cg2Mm3.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Prescriptions/CreateWithPDF.tsx": {
+    "file": "assets/CreateWithPDF-DQMBAWmP.js",
+    "name": "CreateWithPDF",
+    "src": "resources/js/pages/Pharmacist/Prescriptions/CreateWithPDF.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_heading-dqUOBQxD.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_textarea-3mhvGArJ.js",
+      "_app-layout-BjO8UPhY.js",
+      "_upload-D1m6XBpD.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Prescriptions/Dispense.tsx": {
+    "file": "assets/Dispense-B3_-abeD.js",
+    "name": "Dispense",
+    "src": "resources/js/pages/Pharmacist/Prescriptions/Dispense.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Prescriptions/DispenseShow.tsx": {
+    "file": "assets/DispenseShow-Seo5FNXK.js",
+    "name": "DispenseShow",
+    "src": "resources/js/pages/Pharmacist/Prescriptions/DispenseShow.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_badge-PeB8ie60.js",
+      "_card-DMpxeHKD.js",
+      "_checkbox-CmdZUS2u.js",
+      "_label-D4qny3wm.js",
+      "_table-Bx2kdRqw.js",
+      "_textarea-3mhvGArJ.js",
+      "_app-layout-BjO8UPhY.js",
+      "_user-DbbLjyYx.js",
+      "_triangle-alert-BbcsabZN.js",
+      "_pill-BS0WEZWH.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_index-D6cg2Mm3.js",
+      "_app-logo-DcjKhG5i.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Prescriptions/Index.tsx": {
+    "file": "assets/Index-CWZVS66n.js",
+    "name": "Index",
+    "src": "resources/js/pages/Pharmacist/Prescriptions/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_dialog-BWut1jda.js",
+      "_app-layout-BjO8UPhY.js",
+      "_input-cZgy-9z1.js",
+      "_table-Bx2kdRqw.js",
+      "_download-C1qKmiEZ.js",
+      "_eye-xYu3NAbP.js",
+      "_package-ZoGHK-yM.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Prescriptions/LoadPrescription.tsx": {
+    "file": "assets/LoadPrescription-SWT8pKIw.js",
+    "name": "LoadPrescription",
+    "src": "resources/js/pages/Pharmacist/Prescriptions/LoadPrescription.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_dialog-BWut1jda.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_textarea-3mhvGArJ.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Prescriptions/Show.tsx": {
+    "file": "assets/Show-mWrM8qmG.js",
+    "name": "Show",
+    "src": "resources/js/pages/Pharmacist/Prescriptions/Show.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_separator-KBCvUZHV.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_download-C1qKmiEZ.js",
+      "_user-DbbLjyYx.js",
+      "_phone-BfRp5dJ8.js",
+      "_mail-DVHEdVih.js",
+      "_package-ZoGHK-yM.js",
+      "_calendar-BYUAldzQ.js",
+      "_pill-BS0WEZWH.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Profile.tsx": {
+    "file": "assets/Profile-DDJGUsxb.js",
+    "name": "Profile",
+    "src": "resources/js/pages/Pharmacist/Profile.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-layout-BjO8UPhY.js",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_label-D4qny3wm.js",
+      "_triangle-alert-BbcsabZN.js",
+      "_calendar-BYUAldzQ.js",
+      "_user-DbbLjyYx.js",
+      "_mail-DVHEdVih.js",
+      "_phone-BfRp5dJ8.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Repeats.tsx": {
+    "file": "assets/Repeats-CKi3wIRU.js",
+    "name": "Repeats",
+    "src": "resources/js/pages/Pharmacist/Repeats.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_dialog-BWut1jda.js",
+      "_label-D4qny3wm.js",
+      "_table-Bx2kdRqw.js",
+      "_textarea-3mhvGArJ.js",
+      "_app-layout-BjO8UPhY.js",
+      "_clock-KGfhU19J.js",
+      "_circle-x-CkdvlzDH.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Reports.tsx": {
+    "file": "assets/Reports-8BThoC9M.js",
+    "name": "Reports",
+    "src": "resources/js/pages/Pharmacist/Reports.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_badge-PeB8ie60.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_table-Bx2kdRqw.js",
+      "_app-layout-BjO8UPhY.js",
+      "_download-C1qKmiEZ.js",
+      "_trash-2-2fdkUjjd.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Reports/DispensedReportPage.tsx": {
+    "file": "assets/DispensedReportPage-WkyHMl7M.js",
+    "name": "DispensedReportPage",
+    "src": "resources/js/pages/Pharmacist/Reports/DispensedReportPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_card-DMpxeHKD.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_select-8dGr2CsA.js",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/Pharmacist/Stock.tsx": {
+    "file": "assets/Stock-2flsZ5Ek.js",
+    "name": "Stock",
+    "src": "resources/js/pages/Pharmacist/Stock.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_card-DMpxeHKD.js",
+      "_app-layout-BjO8UPhY.js",
+      "_package-ZoGHK-yM.js",
+      "_triangle-alert-BbcsabZN.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_trending-up-LEIheqNm.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/auth/confirm-password.tsx": {
+    "file": "assets/confirm-password-CwK_wDlh.js",
+    "name": "confirm-password",
+    "src": "resources/js/pages/auth/confirm-password.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_input-error--WmyW-nY.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_auth-layout-BwUa2Ots.js",
+      "_loader-circle-BjtqSr8c.js",
+      "_index-D6cg2Mm3.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/auth/forgot-password.tsx": {
+    "file": "assets/forgot-password-C-An2hmV.js",
+    "name": "forgot-password",
+    "src": "resources/js/pages/auth/forgot-password.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_input-error--WmyW-nY.js",
+      "_text-link-BiHnFQEv.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_mail-DVHEdVih.js",
+      "_loader-circle-BjtqSr8c.js",
+      "_index-D6cg2Mm3.js"
+    ]
+  },
+  "resources/js/pages/auth/login.tsx": {
+    "file": "assets/login-O_xGMsqQ.js",
+    "name": "login",
+    "src": "resources/js/pages/auth/login.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_input-error--WmyW-nY.js",
+      "_text-link-BiHnFQEv.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_checkbox-CmdZUS2u.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_mail-DVHEdVih.js",
+      "_lock-bsT-iv2u.js",
+      "_eye-xYu3NAbP.js",
+      "_loader-circle-BjtqSr8c.js",
+      "_index-CR58GS18.js",
+      "_index-Db2yqOI4.js",
+      "_index-D6cg2Mm3.js"
+    ]
+  },
+  "resources/js/pages/auth/register.tsx": {
+    "file": "assets/register-JdUeq7T3.js",
+    "name": "register",
+    "src": "resources/js/pages/auth/register.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_input-error--WmyW-nY.js",
+      "_text-link-BiHnFQEv.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_user-DbbLjyYx.js",
+      "_mail-DVHEdVih.js",
+      "_lock-bsT-iv2u.js",
+      "_eye-xYu3NAbP.js",
+      "_loader-circle-BjtqSr8c.js",
+      "_index-D6cg2Mm3.js"
+    ]
+  },
+  "resources/js/pages/auth/reset-password.tsx": {
+    "file": "assets/reset-password-CgY9dUrW.js",
+    "name": "reset-password",
+    "src": "resources/js/pages/auth/reset-password.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_input-error--WmyW-nY.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_mail-DVHEdVih.js",
+      "_lock-bsT-iv2u.js",
+      "_eye-xYu3NAbP.js",
+      "_loader-circle-BjtqSr8c.js",
+      "_index-D6cg2Mm3.js"
+    ]
+  },
+  "resources/js/pages/auth/verify-email.tsx": {
+    "file": "assets/verify-email-JgW9BWS_.js",
+    "name": "verify-email",
+    "src": "resources/js/pages/auth/verify-email.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_text-link-BiHnFQEv.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_auth-layout-BwUa2Ots.js",
+      "_loader-circle-BjtqSr8c.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/dashboard.tsx": {
+    "file": "assets/dashboard-D86A2W1O.js",
+    "name": "dashboard",
+    "src": "resources/js/pages/dashboard.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-layout-BjO8UPhY.js",
+      "_index-D6cg2Mm3.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/settings/appearance.tsx": {
+    "file": "assets/appearance-C_PkS8I3.js",
+    "name": "appearance",
+    "src": "resources/js/pages/settings/appearance.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_createLucideIcon-CJXjctMu.js",
+      "_layout-7QKfm2gO.js",
+      "_app-layout-BjO8UPhY.js",
+      "_heading-dqUOBQxD.js",
+      "_separator-KBCvUZHV.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/settings/password.tsx": {
+    "file": "assets/password-Bq_vSoJJ.js",
+    "name": "password",
+    "src": "resources/js/pages/settings/password.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_input-error--WmyW-nY.js",
+      "_app-layout-BjO8UPhY.js",
+      "_layout-7QKfm2gO.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_transition-DKsomkrj.js",
+      "_index-D6cg2Mm3.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js",
+      "_heading-dqUOBQxD.js",
+      "_separator-KBCvUZHV.js"
+    ]
+  },
+  "resources/js/pages/settings/profile.tsx": {
+    "file": "assets/profile-DW5MWjyj.js",
+    "name": "profile",
+    "src": "resources/js/pages/settings/profile.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_input-error--WmyW-nY.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_input-cZgy-9z1.js",
+      "_label-D4qny3wm.js",
+      "_layout-7QKfm2gO.js",
+      "_dialog-BWut1jda.js",
+      "_app-layout-BjO8UPhY.js",
+      "_transition-DKsomkrj.js",
+      "_index-D6cg2Mm3.js",
+      "_heading-dqUOBQxD.js",
+      "_separator-KBCvUZHV.js",
+      "_index-CR58GS18.js",
+      "_app-logo-DcjKhG5i.js",
+      "_pill-BS0WEZWH.js"
+    ]
+  },
+  "resources/js/pages/welcome.tsx": {
+    "file": "assets/welcome-VXC_s24T.js",
+    "name": "welcome",
+    "src": "resources/js/pages/welcome.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-DcjKhG5i.js",
+      "_createLucideIcon-CJXjctMu.js",
+      "_separator-KBCvUZHV.js",
+      "_index-D6cg2Mm3.js"
+    ]
+  }
+}
